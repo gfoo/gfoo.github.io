@@ -9,10 +9,10 @@ Demo web app to manage users and project.
 
 Tech stack:
 
-- React frontend: https://github.com/gfoo/react-demo
-- FastAPI backend: https://github.com/gfoo/fastapi-demo
+- [React frontend](https://github.com/gfoo/react-demo)
+- [FastAPI backend](https://github.com/gfoo/fastapi-demo)
 
-Demo deployed on Heroku : https://react-demo-gfoo.herokuapp.com/
+[Demo deployed on Heroku](https://react-demo-gfoo.herokuapp.com/)
 
 Users :
 
